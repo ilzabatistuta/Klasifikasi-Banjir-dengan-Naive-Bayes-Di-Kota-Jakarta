@@ -21,7 +21,7 @@ Hasil classification report dari proses pengolahan data yang dilakukan.
 Melakukan visualisasi terhadap kota jakarta. jika berwarna merah maka pada kecamatan tersebut terdampak banjir, jika hijau tidak terdampak banjir
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a1895b7d-3dd5-40f0-9ed3-35e62264eddf)"alt="Visualisasi Kota Jakarta" width="600">
+  <img src="https://github.com/user-attachments/assets/a1895b7d-3dd5-40f0-9ed3-35e62264eddf"alt="Visualisasi Kota Jakarta" width="600">
 </div>
 
 ---
